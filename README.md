@@ -5,11 +5,12 @@ The SDK for Alexa Voice Service with detailed step-by-step installation instruct
 
 https://github.com/alexa/avs-device-sdk/wiki/Raspberry-Pi-Quick-Start-Guide
 
-I am not a contributing member to the SDK and do not claim to be either nor do I claim any ownership of that repository.
-I am providing the link as is just for information which can otherwise found by googling 'Alexa AVS SDK github'.
+I am not a contributing member to the SDK and do not claim to be, nor do I claim any ownership of that repository.
+I am providing the link as is just for information which can otherwise be found by googling 'Alexa AVS SDK github'.
 
 
-You will have to run the code provided side-by-side with the SDK on a separate terminal window for it to work.
+You will have to run the code provided 'AlexaPi.py' side-by-side with the SDK on a separate terminal window on the Raspberry Pi 
+for it to work.
 
 
 Thank You,
